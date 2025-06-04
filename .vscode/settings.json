@@ -1,0 +1,14 @@
+{
+  "postman.settings.dotenv-detection-notification-visibility": false,
+  "tailwindCSS.includeLanguages": {
+    "typescriptreact": "javascript"
+  },
+  "tailwindCSS.experimental.classRegex": [
+    "className=\"([^\"]*)\"",
+    "className={`([^`]*)`}",
+    "className={(.*?)}"
+  ],
+  "editor.quickSuggestions": {
+    "strings": true
+  }
+}

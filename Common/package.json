@@ -1,0 +1,16 @@
+{
+  "name": "@aditya3012singh/medium-common123",
+  "version": "1.0.2",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "dependencies": {
+    "zod": "^3.25.30"
+  }
+}
