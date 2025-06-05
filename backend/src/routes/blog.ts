@@ -58,7 +58,7 @@ blogRouter.post('/',async (c)=>{
 
   const blog=await  prisma.blog.create({
     data:{
-      title: body.content,
+      title: body.title,
       content:body.content,
       authorId: authorId
     }
